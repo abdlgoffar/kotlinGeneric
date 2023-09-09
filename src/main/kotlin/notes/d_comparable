@@ -1,0 +1,4 @@
+//comparable adalah sebuah interface dimana apabila sebuah class extends pada interface ini, maka object dari class itu
+//nantinya bisa menggunakan opertaor >, <, <=, ataupun >= meskipun data tersebut sebuah data type object.
+
+//untuk mengetahui cara penggunaan comparable lihat di package data file Product

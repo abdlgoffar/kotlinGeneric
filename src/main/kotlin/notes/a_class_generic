@@ -1,0 +1,3 @@
+//class generic adalah class yang bisa menentukan type data dari properties atau method nya ketika class tersebut membuat object nya.
+
+//untuk mengetahui cara pembuatan class generic lihat di package data file Computer

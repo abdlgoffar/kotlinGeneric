@@ -1,0 +1,6 @@
+
+
+//generic constraint adalah cara untuk membatasi type data yang bisa digunakan untuk membuat object dari sebuah class generic,
+//dengan generic constraint maka type data yang boleh digunakan oleh class genric adalah type data yang telah di tentukan dan turunannyas saja.
+
+//untuk mengetahui cara pembuatan generic constraint lihat di package data file Animal
